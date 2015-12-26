@@ -40,9 +40,9 @@ Repo del máster BD CIFF
 ## 2.12 Añadir fichero en la rama V0.2
 ###  touch 2.txt
 ###  git add .
-###  git commit -m "Crear fichero 2.txt en rama V0.2
+###  git commit -m "creado 2.txt en rama V0.2"
 ## 2.13 Subir cambios al repositorio
-###  git pull origin V0.2
+###  git push origin V0.2
 ## 2.14 Merge Directo
 ###  1. Situarse en la rama master
 ###    git checkout master
