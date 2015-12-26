@@ -52,7 +52,7 @@ Repo del máster BD CIFF
 ###  1. En la rama master poner Hola en el fichero 1.txt y hacer commit
 ###    echo Hola > 1.txt
 ###    git add .
-###    git commit -m "añadir tecto al fichero 1.txt"
+###    git commit -m "añadido Hola a 1.txt"
 ## 2.16 Merge con conflicto (II)
 ###  1. Posicionarse en la rama v0.2 y poner Adios en el fichero "1.txt" y hacer commit
 ###    git checkout V0.2
