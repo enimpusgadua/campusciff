@@ -15,21 +15,23 @@ Repo del máster BD CIFF
 ###   1. Crear en el repositorio local un fichero llamado privado.txt
 ####      Creado con notepad++ privado.txt
 ###   2. Crear en el repositorio local una carpeta llamada privada
-####      mk dir privada
+####      mkdir privada
 ## 2.7 Ignorar archivos (II)
 ###  echo -e "privado.txt \nprivada/" > .gitignore
 ###  git add .
-###  git commit -m "Crear fichero .gitignore y volcar los ficheros a ignorar
+###   git commit -m "creado .gitignore"
 ## 2.8 Añadir fichero 1.txt al repositorio local
 ###  touch 1.txt
 ###  git add .
-###  git commit -m "Crear fichero 1.txt"
+###  git commit -m "creado 1.txt"
 ## 2.9 Crear Tag
 ###  git tag V0.1
+###  git tag 
+###     muestra la etiqueta recien creda
 ###  git add .
-###  git commit -m "Crear etiqueta V0.1"
+###   git commit -m "creado tag V0.1"
 ## 2.10 Subir los cambios al repositorio
-###  git pull --tag origin master
+###  git push --tag origin master
 ## 2.11 Crear la rama V0.2
 ###  1. Crear la rama
 ###    git branch V0.2
