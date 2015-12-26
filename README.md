@@ -67,7 +67,7 @@ Repo del máster BD CIFF
 ###  git branch --merged
 ###  git branch --no-merged
 ## 2.19 Arreglar el conflicto anterior y hacer un commit
-#### El conflicto que ha dado es Already up-to-date
+#### El conflicto que ha dado es CONFLICT (content): Merge conflict in 1.txt
 ## 2.20 Borrar rama
 ###   1. Crear un tag V0.2
 ####    git tag -a V0.2 -m "Crear tag v0.2"
