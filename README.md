@@ -68,10 +68,11 @@ Repo del máster BD CIFF
 ###  git branch --no-merged
 ## 2.19 Arreglar el conflicto anterior y hacer un commit
 #### El conflicto que ha dado es CONFLICT (content): Merge conflict in 1.txt
+#### realizamos una actualización completa, commit y merge: up-to-date 
 ## 2.20 Borrar rama
 ###   1. Crear un tag V0.2
-####    git tag -a V0.2 -m "Crear tag v0.2"
-###   2. Borrar rama Vo.2
+####    git tag -a V0.2 -m "Creado tag V0.2"
+###   2. Borrar rama V0.2
 ####    git branch -d V0.2
 ## 2.22 Cuenta de GITHUB
 ###   1. Poner una foto en el perfil de GITHUB
