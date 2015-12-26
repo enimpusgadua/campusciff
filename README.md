@@ -13,9 +13,9 @@ Repo del máster BD CIFF
 ###   git push origin master
 ## 2.6 Ignorar archivos (I)  
 ###   1. Crear en el repositorio local un fichero llamado privado.txt
-####      touch privado.txt
+####      Creado con notepad++ privado.txt
 ###   2. Crear en el repositorio local una carpeta llamada privada
-####      mk dir privado
+####      mk dir privada
 ## 2.7 Ignorar archivos (II)
 ###  echo -e "privado.txt \nprivada/" > .gitignore
 ###  git add .
